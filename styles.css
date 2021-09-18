@@ -1,0 +1,8 @@
+div{
+    width: 500px;
+    height: 500px;
+    border: 1px solid red; /* creating box on left side */
+    margin: 0 auto; /* placing the box in the middle */
+    padding: 120px; /* padding away from the box */
+    box-sizing: border-box;
+}
